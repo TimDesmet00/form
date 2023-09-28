@@ -1,4 +1,5 @@
 /*
+en javascript les vie est belle est tout est possible
  */
 // ciblage des endroit a recuperer ou a envoyer
 const userFirstName = document.getElementById("firstname");
